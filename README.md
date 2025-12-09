@@ -1,12 +1,13 @@
 ❤️ Heart Disease Prediction using XGBoost
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
+![Model](https://img.shields.io/badge/Model-XGBoost-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Dataset](https://img.shields.io/badge/Dataset-Heart%20Disease-red)
 ![Task](https://img.shields.io/badge/Task-Classification-yellow)
 
 ![Repo Size](https://img.shields.io/github/repo-size/jahn8810-ctrl/Jahnavi-Vuddanti)
 ![Last Commit](https://img.shields.io/github/last-commit/jahn8810-ctrl/Jahnavi-Vuddanti)
+
 
 This project predicts the likelihood of heart disease using patient medical data.
 It includes data preprocessing, model training, evaluation, and visualizations using the powerful XGBoost algorithm.
