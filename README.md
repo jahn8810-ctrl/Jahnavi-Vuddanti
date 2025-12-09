@@ -1,6 +1,6 @@
 ❤️ Heart Disease Prediction using XGBoost
-![Repo Size](https://img.shields.io/github/repo-size/jahn8810-ctrl/Jahnavi-Vuddanti)
-![Last Commit](https://img.shields.io/github/last-commit/jahn8810-ctrl/Jahnavi-Vuddanti)
+![Repo Size](https://img.shields.io/github/repo-size/jahn8810-ctrl/Jahnavi-Vuddanti?cacheSeconds=1)
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Model](https://img.shields.io/badge/Model-XGBoost-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
