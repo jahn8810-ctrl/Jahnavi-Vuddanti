@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using XGBoost
+# Heart Disease Prediction using XGBoost
 
 ![Repo Size](https://img.shields.io/github/repo-size/jahn8810-ctrl/Jahnavi-Vuddanti)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
